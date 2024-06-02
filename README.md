@@ -24,10 +24,12 @@
 >![C#](https://img.shields.io/badge/C%23---?style=for-the-badge&logo=csharp&logoColor=white&labelColor=purple&color=purple)
 >![C](https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?style=for-the-badge&logo=c-in-hexagon&logoColor=white)
 >
->
 >##### Database:
 >![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 >![Microsoft SQL Server](https://img.shields.io/badge/microsoft%20sql%20server---?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&labelColor=%23CC2927&color=%23CC2927)
+>
+>##### Mobile:
+>![Flutter](https://img.shields.io/badge/Flutter-%20?style=for-the-badge&logo=flutter&logoColor=white&labelColor=blue&color=blue)
 >
 >##### Tools:
 >![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
