@@ -1,10 +1,10 @@
 # osman
 
-![tersoman's Stats](https://github-readme-stats.vercel.app/api?username=osmanbaturarpacik&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true)
+![osman's Stats](https://github-readme-stats.vercel.app/api?username=osmanbaturarpacik&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true)
 
-![tersoman's Streak](https://github-readme-streak-stats.herokuapp.com/?user=osmanbaturarpacik&theme=shades-of-purple&hide_border=true)
+![osman's Streak](https://github-readme-streak-stats.herokuapp.com/?user=osmanbaturarpacik&theme=shades-of-purple&hide_border=true)
 
-![tersoman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osmanbaturarpacik&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact)
+![osman's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osmanbaturarpacik&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact)
 
 
 >## Languages & Frameworks & Skills ️:
